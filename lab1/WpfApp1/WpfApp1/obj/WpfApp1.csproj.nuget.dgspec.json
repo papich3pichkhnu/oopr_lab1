@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\khnu_program\\2kurs_2sem_oopr\\lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
+    "C:\\Users\\Vova\\Documents\\projtemp\\lab1\\oopr_lab1\\lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "D:\\khnu_program\\2kurs_2sem_oopr\\lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
+    "C:\\Users\\Vova\\Documents\\projtemp\\lab1\\oopr_lab1\\lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\khnu_program\\2kurs_2sem_oopr\\lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Vova\\Documents\\projtemp\\lab1\\oopr_lab1\\lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
         "projectName": "WpfApp1",
-        "projectPath": "D:\\khnu_program\\2kurs_2sem_oopr\\lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectPath": "C:\\Users\\Vova\\Documents\\projtemp\\lab1\\oopr_lab1\\lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
         "packagesPath": "C:\\Users\\Vova\\.nuget\\packages\\",
-        "outputPath": "D:\\khnu_program\\2kurs_2sem_oopr\\lab1\\WpfApp1\\WpfApp1\\obj\\",
+        "outputPath": "C:\\Users\\Vova\\Documents\\projtemp\\lab1\\oopr_lab1\\lab1\\WpfApp1\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -61,7 +79,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
