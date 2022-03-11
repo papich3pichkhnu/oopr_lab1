@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MpomXpBSkWzHlmkXEx/BqlZHbtMQKOkLPdakU6HnaCXmGwilDymaSH9AVxujDYQZBpIbp4s3suI1NkdlLLcOww==",
+  "dgSpecHash": "rpNqUKE6OvT/oQ8yxCtvMz9+1Rz66iVhq2zitoOGmpOEH7Ip/Um/V7P7NRjbhXYD1ZdVvFkNLMJmaaLHKgAJeA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vova\\Documents\\projtemp\\lab1\\oopr_lab1\\lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Vova\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
-    "C:\\Users\\Vova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Vova\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Vova\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
